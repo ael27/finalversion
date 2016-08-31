@@ -1,0 +1,39 @@
+<html lang="en"><head>
+    <meta charset="UTF-8">
+    <title></title>
+    <style>
+        #left{background-color:red;float:left;width:50%;}
+        #right{background color:blue;float:left;width:50%}
+        #right-left{background-color:orange;float:left;width:50%;height:443px}
+        #right-right{background-color:yellow;float:left;width:50%;height:443px}
+
+    </style>
+
+</head>
+<body>
+
+<div id="top" style="background-color:blue;color:green;font-family:Palatino Linotype">
+    This is the top.
+</div>
+<!--This is a comment. It does not show on webpage-->
+<div id="left" style="font-family:Palatino Linotype">
+    This is the left, and a random explosion.
+    <p></p>
+    <img src="putin image.png" height="60%" width="60%">
+
+</div>
+<div id="right" style="font-family:Palatino Linotype">
+
+    <div id="right-left" style="font-family:Palatino Linotype">
+        This is the right side and left part.
+
+    </div>
+    <div id="right-right" style="font-family:Palatino Linotype">
+        This is the right side and right part.
+
+    </div>
+</div>
+
+
+
+</body></html>
